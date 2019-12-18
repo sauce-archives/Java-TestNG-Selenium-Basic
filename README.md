@@ -1,3 +1,5 @@
+## *NOTE*: This repo is no longer maintained. Please see [this repo](https://github.com/saucelabs-sample-test-frameworks/Java-TestNG-Selenium) for an example of using Sauce Labs with Java and TestNG.
+
 ## Java-TestNG-Selenium-Basic
 [![Travis Status](https://travis-ci.org/saucelabs-sample-test-frameworks/Java-TestNG-Selenium-Basic.svg?branch=master)](https://travis-ci.org/saucelabs-sample-test-frameworks/Java-TestNG-Selenium-Basic)
 
